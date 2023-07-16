@@ -1,1 +1,2 @@
-# restaurant-page (React)
+# Gericht (restaurant page)
+## React.js
